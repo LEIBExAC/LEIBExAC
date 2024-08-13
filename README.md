@@ -3,7 +3,7 @@
 
 Welcome to my Githun profile, I am Aditya Chaturvedi 🙆, student of Institute of Engineering and Technology DAVV 🏨, India.
 
-Here are some ideas to get you started:
+The things that I'm currently working on:
 <!--
 - 🔭 I’m currently working on various projects -->
 - 🌱 I’m currently learning ReactJS, NodeJS, Java Spring
