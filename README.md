@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Welcome to my Githun profile, I am Aditya Chaturvedi 🙆, student of Institute of Engineering and Technology DAVV 🏨, India.
+Welcome to my Github profile, I am Aditya Chaturvedi 🙆, student of Institute of Engineering and Technology DAVV 🏨, India.
 
 The things that I'm currently working on:
 <!--
